@@ -4,7 +4,7 @@
  *
 Plugin Name: WP-Eden
 Plugin URI: http://autoloadmanager.shawnsandy.com.com
-Description: A Simple WordPress pluhin of Eden -  Eden simply a set of reusable components, that works with any PHP framework and CMS. Eden makes code logical and readable with dead simple syntax. Eden works with major players including:
+Description: A Simple WordPress pluhin of Eden -  Eden simply a set of reusable components, that works with any PHP framework and CMS. Eden makes code logical and readable with dead simple syntax.
 Author URI: http://shawnsandy.com
 Version: 1.1.2
  *
